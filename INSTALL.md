@@ -1,17 +1,7 @@
-### [X](http://link-to-x.com)
+### [Fig](https://fig.io)
 
-#### Install using Git
+#### Install using Fig
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
+1. Open your terminal
+2. Type `fig theme dracula`
 3. Boom! It's working
